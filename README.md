@@ -1,3 +1,4 @@
+
 Aqui está um modelo de README.md com boas práticas para programadores iniciantes em Visual G (que, presumo, se refere ao Visual G da linguagem de programação brasileira, mais comum em educação). O foco será facilitar a compreensão, fornecer orientações de boas práticas e ajudar no aprendizado:
 
 
